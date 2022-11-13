@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for 	</title>
+	Bình luận cho 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gnadiah2003.github.io/mywordpress</link>
 	<description>Welcome to GNADIAH</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>
-		Comment on ANIME WORLD by nguyenhaidang		</title>
+		Phản hồi cho ANIME WORLD bởi nguyenhaidang		</title>
 		<link>https://gnadiah2003.github.io/mywordpress/demo/#comment-5</link>
 
 		<dc:creator><![CDATA[nguyenhaidang]]></dc:creator>

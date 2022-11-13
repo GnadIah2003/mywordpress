@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: TOP 5 Anime                                                            mùa đông 2022	</title>
+	Các phản hồi luận về: TOP 5 Anime                                                            mùa đông 2022	</title>
 	<atom:link href="http://localhost/myproject/wordpress/top-5-anime-mua-dong-2022/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gnadiah2003.github.io/mywordpress/top-5-anime-mua-dong-2022/</link>
 	<description>Welcome to GNADIAH</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
